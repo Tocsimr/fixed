@@ -20,13 +20,6 @@ PHOTO = [
 Mukesh = [
     [
         InlineKeyboardButton(text="📍𝐎𝐰𝐧𝐞𝐫📍", url=f"tg://user?id={OWNER_ID}"),
-        InlineKeyboardButton(text="🍒𝐆𝐫𝐨𝐮𝐩🍒", url=f"https://t.me/{SUPPORT_CHAT}"),
-    ],
-    [
-        InlineKeyboardButton(
-            text="☆ 𝐀𝐝𝐝 𝐌𝐞 𝐌𝐨𝐢 𝐋𝐮𝐯 ☆",
-            url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
-        ),
     ],
 ]
 
@@ -54,12 +47,19 @@ async def restart(client, m: Message):
     await asyncio.sleep(0.8)
     await m.reply_photo(
         lol,
-        caption=f"""**🌷ʜᴇʏ, ɪ ᴀᴍ 『[𝗩𝗜𝗣 𝗥𝗢𝗕𝗢𝗧](f"t.me/{BOT_USERNAME}")』🎄**
-   ╔═════ஜ۩۞۩ஜ════╗
+        caption=f"""**━━━━▰☛•мυsιc αι•☚▰━━━━
 
-   ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 [𝗩𝗜𝗣 𝗕𝗢𝗬](https://t.me/THE_VIP_BOY)♨️
+💥 тεℓεgяαм мσsт υℓтяα мυsιc вσт ησ ℓαg яυηηιηg ση vρs sεяvεя.💙
 
-   ╚═════ஜ۩۞۩ஜ════╝""",
+┏━━━━━━━━━━━━━━━━━┓
+┣★ Oᴡɴᴇʀ     : @xsexa
+┣★ Uᴘᴅᴀᴛᴇs : @AI_ARMY
+┗━━━━━━━━━━━━━━━━━┛
+👀нσω тσ α∂∂ вσт ιη үσυя gяσυρ?
+
+💙∂м мε ғσя α∂∂ιηg @хsєхα
+
+ιғ үσυ нαvε αηү qυεsтιση ∂м мε""",
         reply_markup=InlineKeyboardMarkup(Mukesh),
     )
 __mod_name__ = "♨️ᴀʟɪᴠᴇ♨️"

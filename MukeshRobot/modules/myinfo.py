@@ -65,7 +65,7 @@ async def callback_query_handler(event):
     try:
         boy = event.sender_id
         PRO = await bot.get_entity(boy)
-        LILIE = "ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝗩𝗜𝗣 𝗕𝗢𝗬\n\n"
+        LILIE = "ᴘᴏᴡᴇʀᴇᴅ ʙʏ Xed_life\n\n"
         LILIE += f"ғɪʀsᴛ ɴᴀᴍᴇ: {PRO.first_name} \n"
         LILIE += f"ʟᴀsᴛ ɴᴀᴍᴇ: {PRO.last_name}\n"
         LILIE += f"ʏᴏᴜ ʙᴏᴛ : {PRO.bot} \n"
@@ -82,4 +82,4 @@ __mod_name__ = "📍ɪɴғᴏ📍"
 __help__ = """
  /myinfo  ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ɪɴғᴏ 
 
-☆............𝙱𝚈 » [𝚅𝙸𝙿 𝙱𝙾𝚈](https://t.me/the_vip_boy)............☆"""
+☆............𝙱𝚈 » [𝚅𝙸𝙿 𝙱𝙾𝚈](https://t.me/xed_life)............☆"""
