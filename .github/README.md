@@ -14,11 +14,11 @@
 
 
 <h2 align="center">
-    𝄟🌹𝗩𝗜𝗣 𝗥𝗢𝗕𝗢𝗧🌹​​​​​𝄟​​​​​
+
 </h2>
 
 <p align="center">
-  <img src="https://graph.org/file/d874fc40ddf9ead0cad6b.jpg">
+
 </p>
 
 ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [𝄟ॐ❥𝗩𝗜𝗣🍷𝗥𝗢𝗕𝗢𝗧𝄟⃟🥀](https://t.me/THE_VIP_ROBOT)
